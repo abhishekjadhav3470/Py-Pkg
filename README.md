@@ -13,7 +13,7 @@ model = Perceptron(eta=0.3, epochs=10)
 * [Github action file for PYPI](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python#publishing-to-package-registries)
 
 steps to create the API_Token 
-1. Create a account in PYPI website and login it later you have verify the account and add the device for verification .
+1. Create a account in PYPI website and login it later you have verify the account and add the device for verification.
 2. Go to account setting and Create a token, it gives a token you have to copy it. it was for only one time use, later it will be vanished.
 3. Go to your repo, open setting, you can see the secret option, create a new repo secret, where you have paste the API_token key which was copied and give a name.
 4. Give the same which is present in the workflow/publish.yml file, it will added.
