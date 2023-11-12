@@ -2,7 +2,7 @@
 
 # How to Use this package
 ```python
-from neuron.perceptron import Perceptron
+from neuron.Perceptron import Perceptron
 model = Perceptron(eta=0.3, epochs=10)
 ```
 
