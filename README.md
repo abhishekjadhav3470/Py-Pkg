@@ -21,6 +21,6 @@ steps to create the API_Token
 
 All set!! 
 
-You can see the output in the PYPI in My projects section 
+You can see the output at the PYPI in My projects section 
 
 Thanks!!
