@@ -1,9 +1,16 @@
 # Python package
 
+# How to Use this package
+```python
+from neuron.perceptron import Perceptron
+model = Perceptron(eta=0.3, epochs=10)
+```
+
 ## reference -
 
 * [Official Python docs for PYPI](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
+* [Github action file for PYPI](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python#publishing-to-package-registries)
 
 steps to create the API_Token 
 1. Create a account in PYPI website and login it later you have verify the account and add the device for verification .
